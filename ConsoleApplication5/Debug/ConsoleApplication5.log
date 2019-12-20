@@ -1,0 +1,16 @@
+﻿  app.cpp
+  assoc.cpp
+  deposits.cpp
+C:\Users\1\source\repos\ConsoleApplication5\ConsoleApplication5\deposits.cpp(26,3): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\ConsoleApplication5\ConsoleApplication5\deposits.cpp(33,3): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\ConsoleApplication5\ConsoleApplication5\deposits.cpp(40,3): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\ConsoleApplication5\ConsoleApplication5\deposits.cpp(47,3): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\ConsoleApplication5\ConsoleApplication5\deposits.cpp(54,3): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\ConsoleApplication5\ConsoleApplication5\deposits.cpp(61,3): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\ConsoleApplication5\ConsoleApplication5\deposits.cpp(96,3): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+  main.cpp
+  mapx.cpp
+  Создание кода...
+C:\Users\1\source\repos\ConsoleApplication5\ConsoleApplication5\deposits.cpp(129,3): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall Application<double>::start(void)" (?start@?$Application@N@@QAEXXZ) в функции _main
+C:\Users\1\source\repos\ConsoleApplication5\Debug\ConsoleApplication5.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
